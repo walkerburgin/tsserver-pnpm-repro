@@ -8,6 +8,7 @@
   "author": "Walker Burgin <walkerburgin@gmail.com>",
   "license": "UNLICENSED",
   "dependencies": {
+      "@blueprintjs/core": "^3.36.0",
       "react": "^16.14.0",
       "react-dom": "^16.14.0"
   },

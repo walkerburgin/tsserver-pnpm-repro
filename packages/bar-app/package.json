@@ -7,6 +7,12 @@
   },
   "author": "Walker Burgin <walkerburgin@gmail.com>",
   "license": "UNLICENSED",
+  "dependencies": {
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0"
+  },
   "devDependencies": {
+    "@types/react": "^16.14.0",
+    "@types/react-dom": "^16.9.10"
   }
 }
