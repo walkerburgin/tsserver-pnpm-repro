@@ -4,18 +4,6 @@ importers:
       typescript: 4.0.5
     specifiers:
       typescript: ~4.0.5
-  packages/bar-app:
-    dependencies:
-      react: 16.14.0
-      react-dom: 16.14.0_react@16.14.0
-    devDependencies:
-      '@types/react': 16.14.2
-      '@types/react-dom': 16.9.10
-    specifiers:
-      '@types/react': ^16.14.0
-      '@types/react-dom': ^16.9.10
-      react: ^16.14.0
-      react-dom: ^16.14.0
   packages/foo-app:
     dependencies:
       '@blueprintjs/core': 3.36.0_react-dom@16.14.0+react@16.14.0
