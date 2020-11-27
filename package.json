@@ -1,7 +1,8 @@
 {
   "name": "tsserver-pnpm-repro",
   "version": "0.0.0",
-  "description": "Monorepo",
+  "description": "Monorepo root",
+  "private": true,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/walkerburgin/tsserver-pnpm-repro.git"
@@ -14,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/walkerburgin/tsserver-pnpm-repro/issues"
   },
-  "homepage": "https://github.com/walkerburgin/tsserver-pnpm-repro#readme"
+  "homepage": "https://github.com/walkerburgin/tsserver-pnpm-repro#readme",
+  "workspaces": [
+    "packages/*"
+  ]
 }
