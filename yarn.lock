@@ -34,6 +34,17 @@
     classnames "^2.2"
     tslib "~1.13.0"
 
+"@blueprintjs/table@^3.5.0":
+  version "3.8.18"
+  resolved "https://artifactory.palantir.build/artifactory/api/npm/all-npm/@blueprintjs/table/-/table-3.8.18.tgz#1d85c4b06eea73e4937a9dca4313b77b3407c11f"
+  integrity sha1-HYXEsG7qc+STep3KQxO3ezQHwR8=
+  dependencies:
+    "@blueprintjs/core" "^3.36.0"
+    classnames "^2.2"
+    prop-types "^15.7.2"
+    react-lifecycles-compat "^3.0.4"
+    tslib "~1.13.0"
+
 "@types/dom4@^2.0.1":
   version "2.0.1"
   resolved "https://artifactory.palantir.build/artifactory/api/npm/all-npm/@types/dom4/-/dom4-2.0.1.tgz#506d5781b9bcab81bd9a878b198aec7dee2a6033"
@@ -257,7 +268,7 @@ popper.js@^1.14.4, popper.js@^1.16.1:
   resolved "https://artifactory.palantir.build/artifactory/api/npm/all-npm/popper.js/-/popper.js-1.16.1.tgz#2a223cb3dc7b6213d740e40372be40de43e65b1b"
   integrity sha1-KiI8s9x7YhPXQOQDcr5A3kPmWxs=
 
-prop-types@^15.6.1, prop-types@^15.6.2:
+prop-types@^15.6.1, prop-types@^15.6.2, prop-types@^15.7.2:
   version "15.7.2"
   resolved "https://artifactory.palantir.build/artifactory/api/npm/all-npm/prop-types/-/prop-types-15.7.2.tgz#52c41e75b8c87e72b9d9360e0206b99dcbffa6c5"
   integrity sha1-UsQedbjIfnK52TYOAga5ncv/psU=
