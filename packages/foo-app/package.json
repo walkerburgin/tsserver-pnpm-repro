@@ -9,6 +9,7 @@
   "license": "UNLICENSED",
   "dependencies": {
       "@blueprintjs/core": "^3.36.0",
+      "@blueprintjs/table": "^3.5.0",
       "react": "^16.14.0",
       "react-dom": "^16.14.0"
   },
